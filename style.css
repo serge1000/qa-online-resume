@@ -118,6 +118,16 @@ body
     color: #03a9f4;
 }
 
+
+.contactInfo ul li span a 
+{
+    width: 30px;
+    font-size: 18px;
+    color: #03a9f4;
+}
+
+
+
 .contactInfo ul li span
 {
     color: rgb(165, 194, 211);
@@ -258,3 +268,10 @@ p{
     {
         grid-template-columns: repeat(1,1fr);
     }
+}
+
+
+.linkedinlink
+{
+    color: #2a7da2;
+}
